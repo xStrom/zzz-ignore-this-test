@@ -1,5 +1,9 @@
 [package]
 name = "zzz-ignore-this-test"
+description = "Ignore this test crate."
+license = "Apache-2.0"
+authors = ["Kaur Kuut <admin@kaurkuut.com>"]
+repository = "https://github.com/xStrom/zzz-ignore-this-test"
 version = "0.1.0"
 edition = "2021"
 readme = "README.md"
