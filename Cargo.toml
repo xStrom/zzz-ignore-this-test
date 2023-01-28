@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "zzz-ignore-this-test",
+]
+default-members = [
+    "zzz-ignore-this-test",
+]
